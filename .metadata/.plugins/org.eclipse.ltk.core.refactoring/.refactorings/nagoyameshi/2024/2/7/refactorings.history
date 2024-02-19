@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="リソース名 &apos;nagoyameshi/src/main/resources/schem.sql&apos; を &apos;schema.sql&apos; に変更します" description="リソース &apos;schem.sql&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/schem.sql" name="schema.sql" stamp="1707865776323" updateReferences="true"/>
+</session>
