@@ -67,7 +67,6 @@ INDEX VERSION 1.134+C:\pleiades\2023-12\kadai_02\.metadata\.plugins\org.eclipse.
 1696183890.index
 3878633452.index
 1577806424.index
-1461014136.index
 2015332788.index
 3789432687.index
 683794363.index
